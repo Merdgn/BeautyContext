@@ -1,0 +1,17 @@
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\bin\Debug\net6.0\BeautiyCenter.Business.deps.json
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\bin\Debug\net6.0\BeautiyCenter.Business.dll
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\bin\Debug\net6.0\BeautiyCenter.Business.pdb
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\bin\Debug\net6.0\BeautiyCenter.DataAccess.dll
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\bin\Debug\net6.0\BeautiyCenter.Entity.dll
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\bin\Debug\net6.0\BeautiyCenter.DataAccess.pdb
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\bin\Debug\net6.0\BeautiyCenter.Entity.pdb
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\obj\Debug\net6.0\BeautiyCenter.Business.csproj.AssemblyReference.cache
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\obj\Debug\net6.0\BeautiyCenter.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\obj\Debug\net6.0\BeautiyCenter.Business.AssemblyInfoInputs.cache
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\obj\Debug\net6.0\BeautiyCenter.Business.AssemblyInfo.cs
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\obj\Debug\net6.0\BeautiyCenter.Business.csproj.CoreCompileInputs.cache
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\obj\Debug\net6.0\BeautiyC.0D2B7890.Up2Date
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\obj\Debug\net6.0\BeautiyCenter.Business.dll
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\obj\Debug\net6.0\refint\BeautiyCenter.Business.dll
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\obj\Debug\net6.0\BeautiyCenter.Business.pdb
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Business\obj\Debug\net6.0\ref\BeautiyCenter.Business.dll

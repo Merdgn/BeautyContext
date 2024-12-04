@@ -1,0 +1,11 @@
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Entity\bin\Debug\net6.0\BeautiyCenter.Entity.deps.json
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Entity\bin\Debug\net6.0\BeautiyCenter.Entity.dll
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Entity\bin\Debug\net6.0\BeautiyCenter.Entity.pdb
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Entity\obj\Debug\net6.0\BeautiyCenter.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Entity\obj\Debug\net6.0\BeautiyCenter.Entity.AssemblyInfoInputs.cache
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Entity\obj\Debug\net6.0\BeautiyCenter.Entity.AssemblyInfo.cs
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Entity\obj\Debug\net6.0\BeautiyCenter.Entity.csproj.CoreCompileInputs.cache
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Entity\obj\Debug\net6.0\BeautiyCenter.Entity.dll
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Entity\obj\Debug\net6.0\refint\BeautiyCenter.Entity.dll
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Entity\obj\Debug\net6.0\BeautiyCenter.Entity.pdb
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.Entity\obj\Debug\net6.0\ref\BeautiyCenter.Entity.dll

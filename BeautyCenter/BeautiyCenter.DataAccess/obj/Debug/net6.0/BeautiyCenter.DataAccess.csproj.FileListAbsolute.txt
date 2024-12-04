@@ -1,0 +1,17 @@
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\bin\Debug\net6.0\BeautiyCenter.DataAccess.deps.json
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\bin\Debug\net6.0\BeautiyCenter.DataAccess.runtimeconfig.json
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\bin\Debug\net6.0\BeautiyCenter.DataAccess.dll
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\bin\Debug\net6.0\BeautiyCenter.DataAccess.pdb
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\bin\Debug\net6.0\BeautiyCenter.Entity.dll
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\bin\Debug\net6.0\BeautiyCenter.Entity.pdb
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\obj\Debug\net6.0\BeautiyCenter.DataAccess.csproj.AssemblyReference.cache
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\obj\Debug\net6.0\BeautiyCenter.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\obj\Debug\net6.0\BeautiyCenter.DataAccess.AssemblyInfoInputs.cache
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\obj\Debug\net6.0\BeautiyCenter.DataAccess.AssemblyInfo.cs
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\obj\Debug\net6.0\BeautiyCenter.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\obj\Debug\net6.0\BeautiyC.AAA4EF0C.Up2Date
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\obj\Debug\net6.0\BeautiyCenter.DataAccess.dll
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\obj\Debug\net6.0\refint\BeautiyCenter.DataAccess.dll
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\obj\Debug\net6.0\BeautiyCenter.DataAccess.pdb
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\obj\Debug\net6.0\BeautiyCenter.DataAccess.genruntimeconfig.cache
+C:\Users\emira\source\repos\BeautyCenter\BeautiyCenter.DataAccess\obj\Debug\net6.0\ref\BeautiyCenter.DataAccess.dll
