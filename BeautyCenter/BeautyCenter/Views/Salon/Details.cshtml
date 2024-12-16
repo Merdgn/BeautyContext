@@ -1,0 +1,65 @@
+﻿@model BeautiyCenter.Entity.Concrete.Salon
+
+<h2>@Model.SalonName Detayları</h2>
+<hr />
+<p><strong>Adres:</strong> @Model.SalonAddress</p>
+<p><strong>Telefon:</strong> @Model.SalonPhoneNumber</p>
+<p><strong>Çalışma Saatleri:</strong> @Model.WorkingHours</p>
+
+<h3>Çalışanlar</h3>
+@if (Model.Employees != null && Model.Employees.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Ad Soyad</th>
+                <th>Uzmanlık Alanı</th>
+                <th>Uygun Saatler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Model.Employees)
+            {
+                <tr>
+                    <td>@employee.EmployeeFullName</td>
+                    <td>@employee.EmployeeSpecialty</td>
+                    <td>@employee.AvailableHours</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Bu salonda çalışan bulunmamaktadır.</p>
+}
+
+<h3>Hizmetler</h3>
+@if (Model.Services != null && Model.Services.Any())
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Hizmet Adı</th>
+                <th>Süre (dk)</th>
+                <th>Ücret</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var service in Model.Services)
+            {
+                <tr>
+                    <td>@service.ServiceName</td>
+                    <td>@service.ServiceDuration</td>
+                    <td>@service.ServicePrice ₺</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Bu salonda henüz hizmet tanımlanmamış.</p>
+}
+
+<a href="@Url.Action("Index", "Salon")" class="btn btn-secondary">Geri Dön</a>

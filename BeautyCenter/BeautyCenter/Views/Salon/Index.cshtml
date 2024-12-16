@@ -1,0 +1,31 @@
+﻿@model IEnumerable<BeautiyCenter.Entity.Concrete.Salon>
+
+<h2>Salon Yönetimi</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Salon Adı</th>
+            <th>Adres</th>
+            <th>Telefon</th>
+            <th>Çalışma Saatleri</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var salon in Model)
+        {
+            <tr>
+                <td>@salon.SalonName</td>
+                <td>@salon.SalonAddress</td>
+                <td>@salon.SalonPhoneNumber</td>
+                <td>@salon.WorkingHours</td>
+                <td>
+                    <a href="@Url.Action("Details", "Salon", new { id = salon.Id })" class="btn btn-info btn-sm">Detay</a>
+                    <a href="@Url.Action("Delete", "Salon", new { id = salon.Id })" class="btn btn-danger btn-sm">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create", "Salon")" class="btn btn-success">Yeni Salon Ekle</a>

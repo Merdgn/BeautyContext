@@ -1,0 +1,40 @@
+﻿body {
+    background-image: url('/images/background.jpg'); /* Resim yolu */
+    background-size: cover; /* Resmi ekranı kaplayacak şekilde ayarlar */
+    background-repeat: no-repeat; /* Tekrar etmesini engeller */
+    background-attachment: fixed; /* Resmi sabitler */
+    background-position: center; /* Resmi ortalar */
+}
+
+/* Fixed Image Styling */
+.fixed-image {
+    height: 500px; /* Sabit yükseklik */
+    object-fit: cover; /* Resmi orantılı şekilde kırparak sabit boyutta gösterir */
+    width: 100%;
+}
+
+/* General Card Styling */
+.card {
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+}
+
+    .card:hover {
+        transform: scale(1.05);
+    }
+
+.card-title {
+    font-weight:unset;
+    margin-bottom: 10px;
+}
+
+.btn-primary {
+    font-weight: bold;
+    background-color:#0056b3;
+    border: none;
+}
+
+    .btn-primary:hover {
+        background-color:#0056b3;
+    }

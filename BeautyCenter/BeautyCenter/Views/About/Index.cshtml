@@ -1,0 +1,15 @@
+﻿@model BeautiyCenter.Entity.Concrete.About
+
+@{
+    ViewData["Title"] = "About Us";
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <h2>@Model.Title</h2>
+        <p>@Model.Description</p>
+    </div>
+    <div class="col-md-6">
+        <img src="~/images/about.jpeg" alt="About Us" class="img-fluid rounded" />
+    </div>
+</div>
