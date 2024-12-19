@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Access Denied";
+}
+
+<div class="container mt-5">
+    <div class="alert alert-danger text-center" role="alert">
+        <h4 class="alert-heading">Erişim Engellendi!</h4>
+        <p>Bu sayfayı görüntüleme yetkiniz bulunmamaktadır.</p>
+        <hr />
+        <a href="@Url.Action("Index", "Home")" class="btn btn-primary">Ana Sayfaya Dön</a>
+    </div>
+</div>
