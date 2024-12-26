@@ -1,0 +1,264 @@
+﻿/* Sayfa arka planı */
+html, body {
+    background-image: url('/images/Background.jpg') !important;
+    background-size: cover;
+    background-color: #edf6ff;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    height: 100%; /* Sayfanın tamamını kapla */
+    display: flex;
+    flex-direction: column; /* Dikey düzen */
+}
+/* Fixed Image Styling */
+.fixed-image {
+    height: 500px; /* Sabit yükseklik */
+    object-fit: cover; /* Resmi orantılı şekilde kırparak sabit boyutta gösterir */
+    width: 100%;
+}
+
+/* General Card Styling */
+.card {
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform 0.3s ease-in-out;
+}
+
+    .card:hover {
+        transform: scale(1.05);
+    }
+
+.card-title {
+    font-weight: unset;
+    margin-bottom: 10px;
+}
+
+.btn-primary {
+    font-weight: bold;
+    background-color: #0056b3;
+    border: none;
+}
+
+    .btn-primary:hover {
+        background-color: #0056b3;
+    }
+
+.appointment-page {
+    max-width: 500px;
+    margin: 50px auto;
+    background: #ffffffcc;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+
+    .appointment-page h2 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .appointment-page .form-group {
+        margin-bottom: 15px;
+    }
+
+    .appointment-page .btn-primary {
+        width: 100%;
+    }
+
+
+/* Navbar arka plan rengini değiştirme */
+.navbar {
+    background-color: #805c7d !important; /* Navbar için istediğiniz renk */
+}
+
+    .navbar .nav-link {
+        color: #ffffff !important; /* Menü bağlantılarının rengi */
+    }
+
+        .navbar .nav-link:hover {
+            color: #d9b08c !important; /* Üzerine gelince bağlantı rengi */
+        }
+
+    .navbar .navbar-brand {
+        color: #ffffff !important; /* Navbar başlığı rengi */
+        font-weight: bold; /* Kalın başlık */
+    }
+
+
+/* İçerik alanını esnek yap */
+main {
+    flex: 1; /* Boşlukları dolduracak esnek alan */
+}
+
+/* Footer en altta sabit */
+footer {
+    background-color: #edf6ff; /* Arka plan rengi */
+    color: #fff; /* Metin rengi */
+    text-align: center;
+    padding: 10px 0;
+    margin-top: auto; /* Footer'ı sayfanın en altına iter */
+}
+
+/* ----------------------------------------- */
+/* Randevu Sayfası Stil */
+/* ----------------------------------------- */
+
+.appointment-page {
+    background-color: #f7f1ff !important;
+    border: 2px solid #e0aaff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+    .appointment-page h2 {
+        text-align: center;
+        color: #6d5b7b;
+    }
+
+input[type="text"],
+input[type="datetime-local"],
+select {
+    border: 1px solid #d0b3ff;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+button[type="submit"] {
+    background-color: #6d5b7b;
+    color: #fff;
+    font-weight: bold;
+}
+
+    button[type="submit"]:hover {
+        background-color: #b084cc;
+    }
+
+/* ----------------------------------------- */
+/* Contact Sayfası Stil */
+/* ----------------------------------------- */
+
+.contact-page {
+    background-color: #fdf4ff;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+    .contact-page h2 {
+        color: #6d5b7b;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .contact-page input,
+    .contact-page textarea {
+        width: 100%;
+        margin-bottom: 15px;
+        padding: 10px;
+        border: 1px solid #d4b3ff;
+        border-radius: 5px;
+    }
+
+    .contact-page button {
+        display: block;
+        width: 100%;
+        background-color: #6d5b7b;
+        color: #fff;
+        font-weight: bold;
+    }
+
+        .contact-page button:hover {
+            background-color: #b084cc;
+        }
+
+/* ----------------------------------------- */
+/* About Sayfası Stil */
+/* ----------------------------------------- */
+
+.about-page {
+    background-color: #f9f7ff;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 50px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+    .about-page h1 {
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: #6d5b7b;
+    }
+
+    .about-page p {
+        font-size: 1.2rem;
+        line-height: 1.8;
+        color: #4f4f4f;
+    }
+
+
+/* Log in ve Register Sayfası Başlıkları Arka Plan ve Yazı Renkleri */
+.login-title,
+.register-title {
+    color: #ffffff; /* Yazı rengini beyaz yap */
+}
+
+.card-header {
+    background-color: #805c7d !important; /* Mor tonunda arka plan rengi */
+    color: #ffffff !important; /* Başlık yazı rengini beyaz yap */
+    text-align: center;
+}
+
+/* Home Sayfası View More Butonları */
+.card .btn-primary {
+    background-color: #805c7d; /* Mor arka plan rengi */
+    border: none; /* Kenar çizgisi kaldır */
+    color: #ffffff; /* Yazı rengi beyaz */
+}
+
+    .card .btn-primary:hover {
+        background-color: #6d5b7b; /* Hover efekti rengi */
+        color: #f1f1f1; /* Hover sırasında yazı rengi */
+    }
+
+
+/* Back to Home Butonu */
+.btn-back-home {
+    background-color: #805c7d; /* Mor arka plan */
+    color: #ffffff; /* Yazı rengi */
+    font-weight: bold;
+    border: none;
+    padding: 10px 20px; /* İç boşluk */
+    border-radius: 5px; /* Kenar yuvarlaklığı */
+    transition: background-color 0.3s ease;
+}
+
+    .btn-back-home:hover {
+        background-color: #6d5b7b; /* Hover efekti */
+        color: #f1f1f1;
+    }
+
+
+/* Makeup Sayfası */
+.makeup-page {
+    background-color: #f9f4ff; /* Hafif mor tonu */
+    padding: 20px;
+}
+
+/* Skincare Sayfası */
+.skincare-page {
+    background-color: #fff0f5; /* Açık pembe tonu */
+    padding: 20px;
+}
+
+/* Hair Sayfası */
+.hair-page {
+    background-color: #f0f8ff; /* Açık mavi tonu */
+    padding: 20px;
+}
+
+
+
+
+

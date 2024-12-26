@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BeautyCenter.Presentation.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BeautyCenter.Presentation.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\1hair.jpg",
+      "PackagePath": "staticwebassets\\images\\1hair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\1makeup.jpg",
+      "PackagePath": "staticwebassets\\images\\1makeup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\1skincare.jpg",
+      "PackagePath": "staticwebassets\\images\\1skincare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\2hair.jpg",
+      "PackagePath": "staticwebassets\\images\\2hair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\2makeup.jpg",
+      "PackagePath": "staticwebassets\\images\\2makeup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\2skincare.jpg",
+      "PackagePath": "staticwebassets\\images\\2skincare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\3hair.jpeg",
+      "PackagePath": "staticwebassets\\images\\3hair.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\3makeup.jpg",
+      "PackagePath": "staticwebassets\\images\\3makeup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\3skincare.jpg",
+      "PackagePath": "staticwebassets\\images\\3skincare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\4hair.jpg",
+      "PackagePath": "staticwebassets\\images\\4hair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\4makeup.jpg",
+      "PackagePath": "staticwebassets\\images\\4makeup.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\4skincare.jpg",
+      "PackagePath": "staticwebassets\\images\\4skincare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\5hair.jpeg",
+      "PackagePath": "staticwebassets\\images\\5hair.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\5makeup.jpeg",
+      "PackagePath": "staticwebassets\\images\\5makeup.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\5skincare.jpg",
+      "PackagePath": "staticwebassets\\images\\5skincare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\6hair.jpg",
+      "PackagePath": "staticwebassets\\images\\6hair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\6makeup.jpeg",
+      "PackagePath": "staticwebassets\\images\\6makeup.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\6skincare.jpg",
+      "PackagePath": "staticwebassets\\images\\6skincare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\7hair.jpg",
+      "PackagePath": "staticwebassets\\images\\7hair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\7skincare.jpg",
+      "PackagePath": "staticwebassets\\images\\7skincare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\8hair.jpg",
+      "PackagePath": "staticwebassets\\images\\8hair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\8skincare.jpg",
+      "PackagePath": "staticwebassets\\images\\8skincare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\Background.jpg",
+      "PackagePath": "staticwebassets\\images\\Background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\about.jpeg",
+      "PackagePath": "staticwebassets\\images\\about.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\hair.jpg",
+      "PackagePath": "staticwebassets\\images\\hair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\make-up.jpg",
+      "PackagePath": "staticwebassets\\images\\make-up.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\images\\skincare.jpg",
+      "PackagePath": "staticwebassets\\images\\skincare.jpg"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\emira\\source\\repos\\BeautyCenter\\BeautyCenter\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BeautyCenter.Presentation.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BeautyCenter.Presentation.props",
+      "PackagePath": "build\\BeautyCenter.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BeautyCenter.Presentation.props",
+      "PackagePath": "buildMultiTargeting\\BeautyCenter.Presentation.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BeautyCenter.Presentation.props",
+      "PackagePath": "buildTransitive\\BeautyCenter.Presentation.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
