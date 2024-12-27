@@ -1,0 +1,19 @@
+﻿@model BeautiyCenter.Entity.DTOs.AIResponseData
+
+<h2>Yüz Şekli ve Saç Modeli Önerileri</h2>
+
+<h3>Yüz Şekilleri:</h3>
+<ul>
+    @foreach (var shape in Model.Shapes)
+    {
+        <li>@shape.ClassName - Olasılık: @shape.Probability</li>
+    }
+</ul>
+
+<h3>Saç Modeli Önerileri:</h3>
+<div>
+    @foreach (var suggestion in Model.Suggestions)
+    {
+        <img src="@suggestion" alt="Saç Modeli" style="width:200px; margin:10px;" />
+    }
+</div>
